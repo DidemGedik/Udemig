@@ -1,3 +1,1 @@
-# OKUL
-# OKUL
 # Udemig
