@@ -4,4 +4,4 @@ This site is a platform designed to introduce Udemig to students interested in p
 
 <h2>Screen Gif</h2>
 
-![](screengif.mp4)
+![](screen.gif)
